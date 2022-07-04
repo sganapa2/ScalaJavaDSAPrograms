@@ -5,3 +5,7 @@ target/*
 *.xml
 out*
 project/*
+*.idea
+*.idea/*
+*.bsp
+*.bsp/*
